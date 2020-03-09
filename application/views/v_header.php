@@ -6,7 +6,7 @@
   <meta name="description" content="">
   <meta name="author" content="">
 
-  <title>Sprint Asia Test</title>
+  <title>Alumagubi Test</title>
 
   <!-- Bootstrap core JavaScript -->
   <script src="<?php echo base_url() ?>assets/vendor/jquery/jquery.min.js"></script>
